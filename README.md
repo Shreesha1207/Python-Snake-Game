@@ -2,10 +2,6 @@
 
 A classic Snake game implementation using Python (Streamlit) and JavaScript.
 
-## Play Online
-
-[Deploy this app to Streamlit Cloud](https://share.streamlit.io/) to play it online!
-
 ## Controls
 
 -   **Space**: Start / Restart Game
@@ -34,13 +30,3 @@ A classic Snake game implementation using Python (Streamlit) and JavaScript.
     ```bash
     streamlit run streamlit_app.py
     ```
-
-## Deployment
-
-This project is designed to be deployed easily on **Streamlit Cloud**:
-
-1.  Push this code to a GitHub repository.
-2.  Go to [share.streamlit.io](https://share.streamlit.io/).
-3.  Connect your GitHub account.
-4.  Select your repository and set the main file to `streamlit_app.py`.
-5.  Click **Deploy**.
