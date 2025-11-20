@@ -1,23 +1,23 @@
-# 🐍 Retro Snake Game
+# Retro Snake Game
 
 A classic Snake game implementation using Python (Streamlit) and JavaScript.
 
-## 🎮 Play Online
+## Play Online
 
 [Deploy this app to Streamlit Cloud](https://share.streamlit.io/) to play it online!
 
-## 🕹️ Controls
+## Controls
 
 -   **Space**: Start / Restart Game
 -   **Arrow Keys**: Move Snake (Up, Down, Left, Right)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 -   **Frontend**: HTML5 Canvas, CSS3 (Retro Arcade Style), JavaScript
 -   **Backend/Hosting**: Streamlit (Python)
 -   **Persistence**: LocalStorage (High scores are saved in your browser)
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 1.  **Clone the repository**:
     ```bash
@@ -35,7 +35,7 @@ A classic Snake game implementation using Python (Streamlit) and JavaScript.
     streamlit run streamlit_app.py
     ```
 
-## ☁️ Deployment
+## Deployment
 
 This project is designed to be deployed easily on **Streamlit Cloud**:
 
